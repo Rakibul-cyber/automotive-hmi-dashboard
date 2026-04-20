@@ -1,0 +1,7 @@
+com.rakibul.hmidashboard.app-pngs-0 C:\Users\RAKIB\AndroidStudioProjects\HMIDashboard\app\build\generated\res\pngs\debug
+com.rakibul.hmidashboard.app-updated_navigation_xml-1 C:\Users\RAKIB\AndroidStudioProjects\HMIDashboard\app\build\generated\updated_navigation_xml\debug
+com.rakibul.hmidashboard.app-packageDebugResources-2 C:\Users\RAKIB\AndroidStudioProjects\HMIDashboard\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.rakibul.hmidashboard.app-packageDebugResources-3 C:\Users\RAKIB\AndroidStudioProjects\HMIDashboard\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.rakibul.hmidashboard.app-debug-4 C:\Users\RAKIB\AndroidStudioProjects\HMIDashboard\app\build\intermediates\merged_res\debug\mergeDebugResources
+com.rakibul.hmidashboard.app-debug-5 C:\Users\RAKIB\AndroidStudioProjects\HMIDashboard\app\src\debug\res
+com.rakibul.hmidashboard.app-main-6 C:\Users\RAKIB\AndroidStudioProjects\HMIDashboard\app\src\main\res

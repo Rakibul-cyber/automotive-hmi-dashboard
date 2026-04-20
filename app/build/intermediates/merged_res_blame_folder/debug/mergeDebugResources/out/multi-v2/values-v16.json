@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.rakibul.hmidashboard.app-mergeDebugResources-57:/values-v16/values-v16.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\RAKIB\\.gradle\\caches\\9.3.1\\transforms\\ddc0931e0b7d88773c2ca2ca6f23a51f\\workspace\\transformed\\appcompat-1.6.1\\res\\values-v16\\values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "5",
+                        "endColumns": "12",
+                        "endOffsets": "223"
+                    }
+                }
+            ]
+        }
+    ]
+}

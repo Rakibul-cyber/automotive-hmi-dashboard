@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="http://schemas.android.com/tools">
+    <color name="automotive_background">#FF0A0A0F</color>
+    <color name="automotive_danger">#FFFF1744</color>
+    <color name="automotive_primary">#FF00D4FF</color>
+    <color name="automotive_surface">#FF12121A</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="app_name">HMI Dashboard</string>
+    <string name="permission_location_rationale">Location permission enables real GPS speed on the dashboard.</string>
+    <style name="Theme.HMIDashboard" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="android:windowBackground">@color/automotive_background</item>
+        <item name="android:statusBarColor">@color/automotive_background</item>
+        <item name="android:navigationBarColor">@color/automotive_background</item>
+        <item name="android:windowLightStatusBar" ns1:targetApi="m">false</item>
+    </style>
+</resources>

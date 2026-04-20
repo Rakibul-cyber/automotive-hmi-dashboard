@@ -1,0 +1,16 @@
+com.rakibul.hmidashboard
+color automotive_background
+color automotive_danger
+color automotive_primary
+color automotive_surface
+color black
+color white
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+string permission_location_rationale
+style Theme_HMIDashboard
+xml backup_rules
+xml data_extraction_rules
